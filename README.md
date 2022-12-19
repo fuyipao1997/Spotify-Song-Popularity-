@@ -1,4 +1,4 @@
-# Spotify-Song-Popularity
+# Spotify-Song-Popularity-Prediction
 ## <b> 1. Project Motivation</b>
 Nowadays, music has become an integral to our life, and Spotify plays an important role. As a global leader in the streaming music sector, Spotify has over 456 million monthly active users, including 195 million paying subscribers. For most people, it has become part of their daily routine. However, this outbreak has increased our music listening activities.
 Thus, we aim to understand the features that popular songs have in common. Moreover, we’re interested in knowing if a song's artist, the genre of songs and the musical features like energy, loudness and danceability among others can help distinguish hit and non-hit songs. Our project goal is to evaluate machine learning models from Python to predict Spotify song popularity and identify what makes a song popular.
